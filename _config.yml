@@ -6,6 +6,5 @@ github_username:  greg-pf
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
 plugins_dir:
   - jekyll-feed
