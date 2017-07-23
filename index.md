@@ -1,6 +1,6 @@
 # About
 
-Greg is a software engineer and Master or Engineering Management student at the Thayer School of Engineering at Dartmouth. From 2013 to 2017, Greg attended Northeastern University where he earned a B.S. in Computer Science and Mathematics.
+Greg is a software engineer and Master of Engineering Management student at the Thayer School of Engineering at Dartmouth. From 2013 to 2017, Greg attended Northeastern University where he earned a B.S. in Computer Science and Mathematics.
 
 Greg is passionate about the software development process and enjoys reading engineering blogs and testimonials about experiences with various development methodologies. His interest in development methodologies arose during the course of his Northeastern Co-Op with [clypd](http://clypd.com/company-overview/) where he received his first exposure to Agile Development outside of the classroom.
 
